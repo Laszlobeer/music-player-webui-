@@ -18,8 +18,8 @@ NEO AUDIO is a sleek, modern web-based audio player that allows you to:
 ### Step-by-Step Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/neo-audio-player.git
-   cd neo-audio-player
+   [git clone https://github.com/yourusername/neo-audio-player.git](https://github.com/Laszlobeer/music-player-webui-)
+   cd music-player-webui-
    ```
 
 2. **Install required packages:**
