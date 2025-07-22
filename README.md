@@ -7,7 +7,7 @@ NEO AUDIO is a sleek, modern web-based audio player that allows you to:
 - Access your music library from any device on your local network
 - Enjoy a Spotify-like experience with album art and metadata
 
-![NEO AUDIO Player Screenshot](screenshot.png)
+
 
 ## 🛠 Installation
 
