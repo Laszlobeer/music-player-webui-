@@ -40,7 +40,7 @@ NEO AUDIO is a sleek, modern web-based audio player that allows you to:
 
 ## 🚀 Running the Player
 ```bash
-python deepseek_python_20250722_e2b37f.py
+python app.py
 ```
 
 After starting the server, you'll see a message like:
